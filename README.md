@@ -1,8 +1,8 @@
+<img src="path-to-image.png" width="100%" />
 
 
 
-
-
+ 
 # Presentación
 
 Estudiante de Ingeniería 
