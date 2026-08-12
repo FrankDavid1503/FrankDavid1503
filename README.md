@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**FrankDavid1503/FrankDavid1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Presentación
 
-Here are some ideas to get you started:
+Estudiante de Ingeniería 
+de Sistemas de la UNCP, cursando el 6to ciclo académico. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Franklin David Flores Ccente
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FrankDavid1503&theme=highcontrast&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+
