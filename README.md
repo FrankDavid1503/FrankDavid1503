@@ -1,4 +1,4 @@
-<img src="path-to-image.png" width="100%" />
+<img src="banner_franklin_david_flores_ccente.png" width="100%" />
 
 
 
